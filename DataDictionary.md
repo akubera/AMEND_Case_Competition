@@ -10,7 +10,6 @@ represents a job completed for a customer.
 |----------|-------|----------------------------------------------------|-------------|
 |ID number |       |                                                    |             |
 |Ftype     |String |                                                    |STK = "Stock"|
-|ID number |       |                                                    |             |
 |Fkey      |int    |                                                    |             |
 |fqtyrequir|int    |Quantity of parts ordered in this job               |             |
 |fqtycomple|int    |Quantity of parts manufactured for this job         |             |
