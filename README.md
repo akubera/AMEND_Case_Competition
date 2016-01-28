@@ -70,7 +70,7 @@ Competition Logistics
   Finally, participants will present to a group of AMEND and MWG executives.
   - **Presentations must be sent to ohiostatebdaa@gmail.com by *12:00pm on February 12th*.**
 
-- Prizes: $300 for 1st Place, $200 for 2nd Place, $100 for 3rd Place
+- Prizes: $250 for 1st Place, $150 for 2nd Place, $100 for 3rd Place
 
 
 [Link To Registration][Registration]
