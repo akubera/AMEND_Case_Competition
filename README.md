@@ -75,6 +75,14 @@ Competition Logistics
 
 [Link To Registration][Registration]
 
+----
+
+This competition requires compliance with [this NDA](ConfidentialityAgreement.md).
+
+A brief description of the data can be found in the [data dictionary](DataDictionary.md)
+
+Microsoft Office versions of these documents may be found in [here](office_docs/).
+
 
 
 [Registration]: https://docs.google.com/forms/d/1_e-vDDIpOaxFppKGoqTZ0YDT64xqcCGm60fwv7lgg7w/viewform
